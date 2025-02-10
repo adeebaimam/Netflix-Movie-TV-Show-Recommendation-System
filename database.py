@@ -1,7 +1,7 @@
 import pandas as pd
 import requests
 
-TMDB_API_KEY = 'cbf641a8ac1c68cbdeb959fb4fe4ea75'
+TMDB_API_KEY = '***'
 TMDB_API_URL = "https://api.themoviedb.org/3"
 
 # Fetch Genre Data (Movie and TV Show genres)
